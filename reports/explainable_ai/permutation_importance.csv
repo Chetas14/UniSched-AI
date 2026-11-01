@@ -1,0 +1,12 @@
+feature,importance_mean,importance_std
+overlapping_resource_classes,0.4928853754940711,0.02006099215881347
+room,0.0,0.0
+day,0.0,0.0
+faculty,0.0,0.0
+student_group,0.0,0.0
+start_time_sin,0.0,0.0
+duration_minutes,0.0,0.0
+start_time_cos,0.0,0.0
+overlapping_room_classes,0.0,0.0
+overlapping_faculty_classes,0.0,0.0
+overlapping_group_classes,0.0,0.0

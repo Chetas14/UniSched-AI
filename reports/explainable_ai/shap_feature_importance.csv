@@ -1,0 +1,12 @@
+feature,mean_absolute_shap_value
+overlapping_resource_classes,0.41494203518944156
+overlapping_group_classes,0.036055180078758256
+overlapping_room_classes,0.02685666328148578
+overlapping_faculty_classes,0.023101668094738778
+start_time_sin,0.0001874295835771646
+day,0.00016030960300175912
+start_time_cos,7.83060270781074e-05
+student_group,2.4410416068766024e-05
+faculty,2.2745756591894194e-05
+room,2.1022253930943285e-05
+duration_minutes,0.0
